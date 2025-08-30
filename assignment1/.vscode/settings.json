@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cfloat": "cpp",
+        "algorithm": "cpp",
+        "numeric": "cpp"
+    }
+}
